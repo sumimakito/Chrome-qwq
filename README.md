@@ -21,6 +21,10 @@ Chrome-qwq
 
 真是個沒用的擴展。qwq
 
+### 演示
+
+![qwq](https://raw.githubusercontent.com/SumiMakito/Chrome-qwq/master/_art/qwq.png)
+
 ### 下載
 
 [點擊就送 qwq](https://github.com/SumiMakito/Chrome-qwq/releases/download/0.1/qwq.crx)
