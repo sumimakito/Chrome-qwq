@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "qwq",
+    "version": "0.1",
+    "description": "The so-called qwq extension.",
+    "icons": {
+        "48": "icon-48.png",
+        "64": "icon-64.png",
+        "512": "icon.png"
+    },
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [{
+        "matches": [
+            "*://twitter.com/*"
+        ],
+        "js": [
+            "inject.js"
+        ],
+        "run_at": "document_idle"
+    }],
+    "permissions": [
+        "http://twitter.com/*",
+        "https://twitter.com/*"
+    ]
+}
