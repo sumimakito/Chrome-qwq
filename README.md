@@ -19,11 +19,15 @@ Chrome-qwq
 
 總之，這個小擴展將在你 Twitter 時間線上適當的推文後方插入「qwq」。qwq
 
+現也支援新浪微博。qwq
+
+有 bug 不會很頻繁的修。qwq
+
 真是個沒用的擴展。qwq
 
 ### 演示
 
-![qwq](https://raw.githubusercontent.com/SumiMakito/Chrome-qwq/master/_art/qwq.png)
+![qwq](https://raw.githubusercontent.com/SumiMakito/Chrome-qwq/master/art/qwq.png)
 
 ### 下載
 

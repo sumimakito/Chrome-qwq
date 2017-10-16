@@ -13,7 +13,9 @@
     },
     "content_scripts": [{
         "matches": [
-            "*://twitter.com/*"
+            "*://twitter.com/*",
+            "*://weibo.com/*",
+            "*://*.weibo.com/*"
         ],
         "js": [
             "inject.js"
@@ -22,6 +24,10 @@
     }],
     "permissions": [
         "http://twitter.com/*",
-        "https://twitter.com/*"
+        "https://twitter.com/*",
+        "http://weibo.com/*",
+        "https://weibo.com/*",
+        "http://*.weibo.com/*",
+        "https://*.weibo.com/*"
     ]
 }
