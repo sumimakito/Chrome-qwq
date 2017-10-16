@@ -31,7 +31,7 @@ Chrome-qwq
 
 ### 下載
 
-[點擊就送 qwq](https://github.com/SumiMakito/Chrome-qwq/releases/download/0.1/qwq.crx)
+[點擊就送 qwq](https://github.com/SumiMakito/Chrome-qwq/releases/download/0.2/qwq.crx)
 
 ### 授權協議
 
