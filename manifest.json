@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "qwq",
-    "version": "0.1",
+    "version": "0.2",
     "description": "The so-called qwq extension.",
     "icons": {
         "48": "icon-48.png",
